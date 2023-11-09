@@ -1,0 +1,47 @@
+Lijst ophalen van teams
+
+Lijst shufflen
+
+Teams per 2 groeperen
+team a
+team b
+team c
+team d
+
+1   2
+a
+b   b
+
+c   c
+d
+
+
+1   2   3
+a
+b       b
+
+    e   c
+c   ?
+d
+
+
+1   2   3
+    a
+    b   b
+
+    c   c
+    e
+e
+d
+
+
+                    5/2 = 2,5      ->  3
+Aantal rondes = (aantal teams / 2) -> naar boven afgerond
+
+
+Competities (*)
+    - Rondes (*)
+        - Matches (*)
+            - Teams (2)
+            - Scores (2)
+            - Winnend team (type Team)
